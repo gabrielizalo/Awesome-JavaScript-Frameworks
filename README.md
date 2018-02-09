@@ -1,4 +1,4 @@
-# Gabo's Awesome JavaScript Frameworks
+# John Hannah's Awesome JavaScript Frameworks
 
 
 
