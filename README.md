@@ -92,12 +92,12 @@ development.
 
 ### [Backbone](http://github.com/jashkenas/backbone) - [Official Site](http://backbonejs.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/jashkenas/backbone.js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/jashkenas/backbone.js.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/jashkenas/backbone.js.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/jashkenas/backbone.js.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/jashkenas/backbone.js.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/jashkenas/backbone.js.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/jashkenas/backbone.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/jashkenas/backbone.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/jashkenas/backbone.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/jashkenas/backbone.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/jashkenas/backbone.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/jashkenas/backbone.svg?style=flat-square)]()
 
 Authored by Jeremy Ashkenas, who also created CoffeeScript, Backbone 
 was initially released in the fall of 2010. A key part of the Backbone 
@@ -111,11 +111,11 @@ management system.
 
 ### [Ember](https://github.com/emberjs/ember.js) - [Official Site](https://www.emberjs.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/emberjs/ember.js.js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/emberjs/ember.js.js.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/emberjs/ember.js.js.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/emberjs/ember.js.js.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/emberjs/ember.js.js.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/emberjs/ember.js.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/emberjs/ember.js.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/emberjs/ember.js.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/emberjs/ember.js.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/emberjs/ember.js.svg?style=flat-square)]()
 [![GitHub issues](https://img.shields.io/github/issues/emberjs/ember.js.js.svg?style=flat-square)]()
 
 Ember was authored by Yehuda Katz, a prolific creator or contributor to 
