@@ -7,9 +7,9 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 <details>
   <summary><strong>Contents</strong></summary>
 
-* [The Big Three](#the-big-three)
-* [Historically Significant](#historically-significant)
-* [Notable](#notable)
+* [The Big Three (3)](#the-big-three)
+* [Historically Significant (3)](#historically-significant)
+* [Notable (7)](#notable)
 * [Rest of the Pack](#rest-of-the-pack)
 
 </details>
@@ -35,22 +35,6 @@ have been left to third parties. This has resulted in a large and very
 active ecosystem around React.
 
 
-### [Vue.js](https://github.com/vuejs/vue) - [Official Site](https://vuejs.org/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/vuejs/vue.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/vuejs/vue.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/vuejs/vue.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/vuejs/vue.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/vuejs/vue.svg?style=flat-square)]()
-
-The Progressive JavaScript Framework. It is widely considered to be the 
-easiest to learn. It is similar to React in many respects, but also has 
-things in common with AngularJS — for example, directives and templates. 
-Vue's relative simplicity, developer experience, and good performance 
-have contributed to a huge surge in its popularity. 
-
-
 ### [Angular](https://github.com/angular/angular) - [Official Site](https://angular.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular.svg?style=flat-square)]()
@@ -67,6 +51,23 @@ feature of Angular is its use of TypeScript as the development language.
 This has made the framework well-suited to those coming from traditional 
 object-oriented languages like Java and C#, as TypeScript takes 
 inspiration from those languages. 
+
+
+### [Vue.js](https://github.com/vuejs/vue) - [Official Site](https://vuejs.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/vuejs/vue.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/vuejs/vue.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/vuejs/vue.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/vuejs/vue.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/vuejs/vue.svg?style=flat-square)]()
+
+The Progressive JavaScript Framework. It is widely considered to be the 
+easiest to learn. It is similar to React in many respects, but also has 
+things in common with AngularJS — for example, directives and templates. 
+Vue's relative simplicity, developer experience, and good performance 
+have contributed to a huge surge in its popularity. 
+
 
 
 ## Historically Significant
@@ -124,4 +125,130 @@ has a rich feature set. One of the major criticisms of Ember is its
 large size, which has a negative impact on performance. Ember is also 
 viewed as having a steep learning curve and difficult to master.
 
+
+
+## Notable
+
+
+### [Aurelia](https://github.com/aurelia/framework) - [Official Site](http://aurelia.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/aurelia/framework.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/aurelia/framework.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/aurelia/framework.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/aurelia/framework.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/aurelia/framework.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/aurelia/framework.svg?style=flat-square)]()
+
+Aurelia, authored by Rob Eisenberg, can be seen as a decendant of both 
+AngularJS and Eisenberg's previous framework: Durandal. Prior to 
+creating Aurelia, Eisenberg was a part of the Angular team. Aurelia is 
+a complete framework. It provides core capabilities like dependency 
+injection, templating, routing and pub/sub, so you don't have to piece 
+together a bunch of libraries in order to build an application. 
+
+
+### [Elm](https://github.com/elm-lang/elm-lang.org) - [Official Site](http://elm-lang.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/elm-lang/elm-lang.org.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/elm-lang/elm-lang.org.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/elm-lang/elm-lang.org.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/elm-lang/elm-lang.org.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/elm-lang/elm-lang.org.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/elm-lang/elm-lang.org.svg?style=flat-square)]()
+
+Elm is somewhat unique on this list. Rather than a typical framework, 
+it's actually a separate language that compiles to JavaScript. However, 
+it positions itself as an alternative to React: Elm is a functional 
+language that compiles to JavaScript. It competes with projects like 
+React as a tool for creating websites and web apps. Elm has a very 
+strong emphasis on simplicity, ease-of-use, and quality tooling.
+
+
+### [Inferno](https://github.com/infernojs/inferno) - [Official Site](https://infernojs.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/infernojs/inferno.org.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/infernojs/inferno.org.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/infernojs/inferno.org.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/infernojs/inferno.org.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/infernojs/inferno.org.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/infernojs/inferno.org.svg?style=flat-square)]()
+
+If performance is your primary concern, Inferno might be the framework 
+for you. Originally authored by Dominic Gannaway — now a member of the 
+React team — Inferno was initially designed to prove that a JavaScript 
+framework could perform well on mobile devices. Inferno started as an 
+idea to see if a UI library could really improve the experience, 
+battery, memory usage and performance on mobile devices.
+
+
+### [Polymer](https://github.com/Polymer/polymer) - [Official Site](https://www.polymer-project.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/Polymer/polymer.org.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/Polymer/polymer.org.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/Polymer/polymer.org.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/Polymer/polymer.org.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/Polymer/polymer.org.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/Polymer/polymer.org.svg?style=flat-square)]()
+
+Polymer is a Google-backed libary focused on Web Components, a proposed 
+group of technologies that are currently not well-supported in browsers. 
+Polymer, along with the Polymer App Toolbox, helps developers use these 
+technologies today to build web applications. With Web Components, you 
+can create reusable custom elements that interoperate seamlessly with 
+the browser’s built-in elements, or break your app up into right-sized 
+components, making your code cleaner and less expensive to maintain.
+
+
+### [Preact](https://github.com/developit/preact) - [Official Site](https://preactjs.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/developit/preact.org.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/developit/preact.org.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/developit/preact.org.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/developit/preact.org.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/developit/preact.org.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/developit/preact.org.svg?style=flat-square)]()
+
+Authored by Jason Miller, Preact is a well-established React alternative 
+that emphasizes small library size. Coming in at 3KB gzipped, Preact 
+uses the same API as React and is compatible with much of the ecosystem. 
+Preact itself is not intended to be a reimplementation of React. There 
+are differences. Many of these differences are trivial, or can be 
+completely removed.
+
+
+### [Reason](https://github.com/facebook/reason) - [Official Site](https://reasonml.github.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/facebook/reason.org.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/facebook/reason.org.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/facebook/reason.org.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/facebook/reason.org.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/facebook/reason.org.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/facebook/reason.org.svg?style=flat-square)]()
+
+In a way, Reason can be thought of as a part of the React ecosystem. 
+However, it is much more than that. Reason is a syntax on top of the 
+OCaml langauge. It can compile to JavaScript, but it can also compile 
+to assembly and be used to build desktop and mobile applications. Reason 
+is not a new language; it's a new syntax and toolchain powered by the 
+battle-tested language, OCaml. Reason gives OCaml a familiar syntax 
+geared toward JavaScript programmers, and caters to the existing 
+NPM/Yarn workflow folks already know...
+
+
+### [Svelte](https://github.com/sveltejs/svelte) - [Official Site](https://svelte.technology/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/svelte.org.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/sveltejs/svelte.org.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/sveltejs/svelte.org.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/sveltejs/svelte.org.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/sveltejs/svelte.org.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/sveltejs/svelte.org.svg?style=flat-square)]()
+
+Authored by Rich Harris, Svelte takes a unique approach. It compiles 
+your app at build time so that you ship the lightest weight code 
+possible. Svelte has a crucial difference: rather than interpreting your 
+application code at run time, your app is converted into ideal 
+JavaScript at build time. That means you don't pay the performance cost 
+of the framework's abstractions, or incur a penalty when your app first 
+loads.
 
