@@ -166,12 +166,12 @@ strong emphasis on simplicity, ease-of-use, and quality tooling.
 
 ### [Inferno](https://github.com/infernojs/inferno) - [Official Site](https://infernojs.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/infernojs/inferno.org.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/infernojs/inferno.org.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/infernojs/inferno.org.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/infernojs/inferno.org.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/infernojs/inferno.org.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/infernojs/inferno.org.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/infernojs/inferno.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/infernojs/inferno.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/infernojs/inferno.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/infernojs/inferno.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/infernojs/inferno.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/infernojs/inferno.svg?style=flat-square)]()
 
 If performance is your primary concern, Inferno might be the framework 
 for you. Originally authored by Dominic Gannaway — now a member of the 
@@ -183,12 +183,12 @@ battery, memory usage and performance on mobile devices.
 
 ### [Polymer](https://github.com/Polymer/polymer) - [Official Site](https://www.polymer-project.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Polymer/polymer.org.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/Polymer/polymer.org.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/Polymer/polymer.org.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/Polymer/polymer.org.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/Polymer/polymer.org.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/Polymer/polymer.org.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Polymer/polymer.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/Polymer/polymer.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/Polymer/polymer.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/Polymer/polymer.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/Polymer/polymer.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/Polymer/polymer.svg?style=flat-square)]()
 
 Polymer is a Google-backed libary focused on Web Components, a proposed 
 group of technologies that are currently not well-supported in browsers. 
@@ -201,12 +201,12 @@ components, making your code cleaner and less expensive to maintain.
 
 ### [Preact](https://github.com/developit/preact) - [Official Site](https://preactjs.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/developit/preact.org.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/developit/preact.org.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/developit/preact.org.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/developit/preact.org.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/developit/preact.org.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/developit/preact.org.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/developit/preact.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/developit/preact.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/developit/preact.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/developit/preact.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/developit/preact.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/developit/preact.svg?style=flat-square)]()
 
 Authored by Jason Miller, Preact is a well-established React alternative 
 that emphasizes small library size. Coming in at 3KB gzipped, Preact 
@@ -218,12 +218,12 @@ completely removed.
 
 ### [Reason](https://github.com/facebook/reason) - [Official Site](https://reasonml.github.io/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/facebook/reason.org.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/facebook/reason.org.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/facebook/reason.org.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/facebook/reason.org.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/facebook/reason.org.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/facebook/reason.org.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/facebook/reason.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/facebook/reason.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/facebook/reason.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/facebook/reason.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/facebook/reason.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/facebook/reason.svg?style=flat-square)]()
 
 In a way, Reason can be thought of as a part of the React ecosystem. 
 However, it is much more than that. Reason is a syntax on top of the 
@@ -237,12 +237,12 @@ NPM/Yarn workflow folks already know...
 
 ### [Svelte](https://github.com/sveltejs/svelte) - [Official Site](https://svelte.technology/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/svelte.org.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/sveltejs/svelte.org.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/sveltejs/svelte.org.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/sveltejs/svelte.org.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/sveltejs/svelte.org.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/sveltejs/svelte.org.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/svelte.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/sveltejs/svelte.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/sveltejs/svelte.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/sveltejs/svelte.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/sveltejs/svelte.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/sveltejs/svelte.svg?style=flat-square)]()
 
 Authored by Rich Harris, Svelte takes a unique approach. It compiles 
 your app at build time so that you ship the lightest weight code 
