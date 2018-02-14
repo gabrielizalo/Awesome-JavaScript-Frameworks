@@ -10,7 +10,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack](#rest-of-the-pack)
+* [Rest of the Pack (6)](#rest-of-the-pack)
 
 </details>
 
@@ -252,3 +252,104 @@ JavaScript at build time. That means you don't pay the performance cost
 of the framework's abstractions, or incur a penalty when your app first 
 loads.
 
+
+
+## Rest of the Pack
+
+
+### [AppRun](https://github.com/yysun/apprun) - [Official Site](https://yysun.github.com/apprun)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/yysun/apprun.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/yysun/apprun.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/yysun/apprun.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/yysun/apprun.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/yysun/apprun.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/yysun/apprun.svg?style=flat-square)]()
+
+Authored by Yiyi Sun, AppRun in a lightweight (3KB) library that uses 
+TypeScript as the development language and takes inspiration from Elm, 
+style model-view-update architecture and event publication and 
+subscription.
+
+
+### [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
+
+Binding.scala is a one-way data-binding library written in Scala, 
+although it targets both JavaScript and JVM. Binding.scala can be used 
+as a reactive templating language in both web and desktop GUI 
+development. It enables you use native XHTML literal syntax to create 
+reactive DOM nodes, which are able to automatically change whenever the 
+data source changes... Binding.scala has more features and less concepts 
+than other reactive web frameworks like ReactJS.
+
+
+### [Bobril](https://github.com/Bobris/Bobril) - [Official Site](http://bobril.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/Bobris/Bobril.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/Bobris/Bobril.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/Bobris/Bobril.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/Bobris/Bobril.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/Bobris/Bobril.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/Bobris/Bobril.svg?style=flat-square)]()
+
+Bobril takes inspiration from React and Mithril. It is fast, low size 
+framework with rendering based on Virtual DOM. The main focus is on 
+speed and simplicity of code generation...Content and behavior of any 
+page can be defined simply by composing JavaScript objects.
+
+
+### [Choo](https://github.com/choojs/choo) - [Official Site](https://choo.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/choojs/choo.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/choojs/choo.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/choojs/choo.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/choojs/choo.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/choojs/choo.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/choojs/choo.svg?style=flat-square)]()
+
+Choo is a functional library for building user interfaces. It's small 
+(4KB) and supports server rendering. They believe frameworks should be 
+disposable, and components recyclable. They don't want a web where 
+walled gardens jealously compete with one another. By making the DOM 
+the lowest common denominator, switching from one framework to another 
+becomes frictionless.
+
+
+### [Cycle.js](https://github.com/cyclejs/cyclejs) - [Official Site](https://cycle.js.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/cyclejs/cyclejs.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/cyclejs/cyclejs.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/cyclejs/cyclejs.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/cyclejs/cyclejs.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/cyclejs/cyclejs.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/cyclejs/cyclejs.svg?style=flat-square)]()
+
+Billed as a "functional and reactive JavaScript framework for 
+predictable code" Cycle.js is primarily the work of André Staltz. 
+Cycle’s core abstraction is your application as a pure function main() 
+where inputs are read effects (sources) from the external world and 
+outputs (sinks) are write effects to affect the external world. 
+These I/O effects in the external world are managed by drivers: plugins 
+that handle DOM effects, HTTP effects, etc.
+
+
+### [DIO](https://github.com/thysultan/dio.js) - [Official Site](https://dio.js.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/thysultan/dio.js.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/thysultan/dio.js.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/thysultan/dio.js.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/thysultan/dio.js.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/thysultan/dio.js.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/thysultan/dio.js.svg?style=flat-square)]()
+
+DIO is a lightweight (7KB), declarative UI library that offers an 
+alternative to React. There a lot of small details that give DIO its 
+edge that don't realy touch on new API's but rather on creating a 
+larger surface area of what React already supports and adding to this.
