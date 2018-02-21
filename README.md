@@ -4,15 +4,12 @@
 
 List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)**.
 
-<details>
-  <summary><strong>Contents</strong></summary>
+## Categories
 
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (6)](#rest-of-the-pack)
-
-</details>
+* [Rest of the Pack (12)](#rest-of-the-pack)
 
 
 
@@ -353,3 +350,119 @@ DIO is a lightweight (7KB), declarative UI library that offers an
 alternative to React. There a lot of small details that give DIO its 
 edge that don't realy touch on new API's but rather on creating a 
 larger surface area of what React already supports and adding to this.
+
+
+### [Dojo](https://github.com/dojo/meta) - [Official Site](https://dojo.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/dojo/meta.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/dojo/meta.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/dojo/meta.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/dojo/meta.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/dojo/meta.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/dojo/meta.svg?style=flat-square)]()
+
+One of the important principles behind [Dojo](https://dojo.io/) is
+accessibility, which makes me think it's a potential candidate for
+projects in government and higher education, where there are often
+stringent compliance requirements. Dojo 2 is grounded in the belief that
+accessibility is as important online as it is in our physical
+environments, and architects of both share a similar responsibility to
+provide access to all. Internationalization, or i18n, is the process of
+decoupling an application from a particular language or culture, and is
+a major requirement of most enterprise applications.
+
+
+### [Domvm](https://github.com/leeoniya/domvm) - [Official Site](http://leeoniya.github.io/domvm/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/leeoniya/domvm.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/leeoniya/domvm.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/leeoniya/domvm.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/leeoniya/domvm.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/leeoniya/domvm.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/leeoniya/domvm.svg?style=flat-square)]()
+
+[Domvm](http://leeoniya.github.io/domvm/) is a, "thin, fast,
+dependency-free vdom view layer". Like Vue, it can be used as a jQuery
+replacement. Similar to React, it leaves concerns beyond views to other
+libraries (but provides a good list of options). domvm is a flexible,
+pure-js view layer for building high performance web applications. Like
+jQuery, it'll happily fit into any existing codebase without introducing
+new tooling or requiring major architectural changes...As a view layer,
+domvm does not include some things you would find in a larger framework.
+This gives you the freedom to choose libs you already know or prefer for
+common tasks. domvm provides a small, common surface for integration of
+routers, streams and immutable libs.
+
+
+### [DoneJS](https://github.com/dvajs/dva) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/dvajs/dva.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/dvajs/dva.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/dvajs/dva.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/dvajs/dva.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/dvajs/dva.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/dvajs/dva.svg?style=flat-square)]()
+
+[DoneJS](https://github.com/dvajs/dva) is a successor to JavaScriptMVC,
+which was first released in 2008. DoneJS offers everything you need to
+build a modern web app. It comes with a module loader, build system,
+MVVM utilities, full testing layer, documentation generator, server side
+rendering utilities, a data layer, and more. Its completeness is itself
+a feature.
+
+
+### [Etch](https://github.com/atom/etch) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/atom/etch.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/atom/etch.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/atom/etch.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/atom/etch.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/atom/etch.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/atom/etch.svg?style=flat-square)]()
+
+Although [Etch](https://github.com/atom/etch) can be used for front end
+web applications, its target usage is in Atom packages and the Electron
+desktop framework. Etch is a library for writing HTML-based user
+interface components that provides the convenience of a virtual DOM,
+while at the same time striving to be minimal, interoperable, and
+explicit. Etch can be used anywhere, but it was specifically designed
+with Atom packages and Electron applications in mind. 
+
+
+### [Gruu](https://github.com/MarekLabuz/gruu) - [Official Site](https://gruujs.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/MarekLabuz/gruu.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/MarekLabuz/gruu.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/MarekLabuz/gruu.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/MarekLabuz/gruu.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/MarekLabuz/gruu.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/MarekLabuz/gruu.svg?style=flat-square)]()
+
+[Gruu](https://gruujs.com/) is a relatively new framework by Marek
+Łabuz. I believe that none of the existing libraries is perfect. Each
+time a new library/framework is created, some new idea is revealed. No
+matter if the new library is good or bad. It always brings something
+unique that is valuable. Many frontend libraries rely on a render
+function that is called each time something changes, no matter what the
+change affects. It leads to unnecessary renders of the parts of the
+application that has not changed, but still we have to check it because
+we don't know for sure... Gruu gets rid of a render function. Instead,
+it renders only once at the beginning, then it changes only this parts
+of the view that have actually changed without rendering whole
+components.
+
+
+### [Glimmer](https://github.com/glimmerjs/glimmer.js) - [Official Site](https://glimmerjs.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/glimmerjs/glimmer.js.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/glimmerjs/glimmer.js.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/glimmerjs/glimmer.js.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/glimmerjs/glimmer.js.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/glimmerjs/glimmer.js.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/glimmerjs/glimmer.js.svg?style=flat-square)]()
+
+[Glimmer](https://glimmerjs.com/) is part of the Ember ecosystem and
+even uses the Ember CLI to manage projects. As mentioned when discussing
+Ember, it is a large framework. Glimmer provides Ember developers with a
+lighter weight option for building single page apps. If needed, Glimmer
+components can be dropped directly into Ember without a problem. 
