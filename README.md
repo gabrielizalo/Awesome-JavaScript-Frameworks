@@ -9,7 +9,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (17)](#rest-of-the-pack)
+* [Rest of the Pack (18)](#rest-of-the-pack)
 
 
 
@@ -564,3 +564,21 @@ desktop-like user interfaces with JavaScript and HTML. It uses observers
 to make your UI automatically stay in sync with an underlying data
 model, along with a powerful and extensible set of declarative bindings
 to enable productive development.
+
+### [Maquette](https://github.com/AFASSoftware/maquette) - [Official Site](https://maquettejs.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/AFASSoftware/maquette.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/AFASSoftware/maquette.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/AFASSoftware/maquette.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/AFASSoftware/maquette.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/AFASSoftware/maquette.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/AFASSoftware/maquette.svg?style=flat-square)]()
+
+[Maquette](https://maquettejs.org/) is a lightweight (3KB) library
+inspired by React, Mithril and Mercury. Maquette is a virtual DOM
+implementation that excels in both speed and simplicity. It solves the
+problem of keeping the user interface in sync with underlying data.
+Maquette allows you to specify the UI using plain Javascript. This makes
+maquette easy to learn, easy to debug and easy to deploy. Maquette is
+very unopionated by design, making integration with other frameworks and
+libraries as painless as possible.
