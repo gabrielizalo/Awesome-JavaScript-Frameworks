@@ -9,7 +9,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (15)](#rest-of-the-pack)
+* [Rest of the Pack (16)](#rest-of-the-pack)
 
 
 
@@ -526,4 +526,24 @@ compliant and it weighs in at less than 4Kb". It's nothing more than a
 function, that works bound with DOM nodes and fragments as context. You
 bind your target node once, or even more if you don't care, and you
 render the same template literals over and over simply passing new data.
+
+
+### [Ivi](https://github.com/ivijs/ivi) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ivijs/ivi.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/ivijs/ivi.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ivijs/ivi.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/ivijs/ivi.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/ivijs/ivi.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/ivijs/ivi.svg?style=flat-square)]()
+
+It seems that nowadays many people in javascript community were
+brainwashed that small library size is a synonym to fast performance and
+simple implementation. In reality it usually means that library is using
+different tricks to reduce code size by using inappropriate data
+structures (slower performance), initializing data structures at runtime
+(slower bootstrap performance), reusing code for many different data
+types (slower performance), etc. Library size in ivi library is at the
+bottom on the list of priorities: Correctness, Consistency / Predictable
+Behavior, Performance / Developer Experience and Library Size.
 
