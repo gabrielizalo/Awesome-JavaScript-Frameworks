@@ -9,7 +9,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (12)](#rest-of-the-pack)
+* [Rest of the Pack (13)](#rest-of-the-pack)
 
 
 
@@ -466,3 +466,26 @@ even uses the Ember CLI to manage projects. As mentioned when discussing
 Ember, it is a large framework. Glimmer provides Ember developers with a
 lighter weight option for building single page apps. If needed, Glimmer
 components can be dropped directly into Ember without a problem. 
+
+
+### [Hyperapp](https://github.com/hyperapp/hyperapp) - [Official Site](https://hyperapp.js.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/hyperapp/hyperapp.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/hyperapp/hyperapp.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/hyperapp/hyperapp.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/hyperapp/hyperapp.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/hyperapp/hyperapp.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/hyperapp/hyperapp.svg?style=flat-square)]()
+
+Coming in at a very slender 1KB, [Hyperapp](https://hyperapp.js.org/) is
+a library with a minimalist API. It does, however, support server
+rendering. It is a JavaScript library for building web applications.
+Hyperapp was born out of the attempt to do more with less. We have
+aggressively minimized the concepts you need to understand while
+remaining on par with what other frameworks can do. Hyperapp's design is
+inspired by The Elm Architecture. Create scalable browser-based
+applications using a functional paradigm. The twist is you don't have to
+learn a new language. Out of the box, Hyperapp combines state management
+with a VDOM engine that supports keyed updates & lifecycle events ---
+all with no dependencies.
+
