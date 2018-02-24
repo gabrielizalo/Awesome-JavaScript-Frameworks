@@ -9,7 +9,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (16)](#rest-of-the-pack)
+* [Rest of the Pack (17)](#rest-of-the-pack)
 
 
 
@@ -547,3 +547,20 @@ types (slower performance), etc. Library size in ivi library is at the
 bottom on the list of priorities: Correctness, Consistency / Predictable
 Behavior, Performance / Developer Experience and Library Size.
 
+
+### [Knockout](https://github.com/knockout/knockout) - [Official Site](http://knockoutjs.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/knockout/knockout.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/knockout/knockout.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/knockout/knockout.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/knockout/knockout.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/knockout/knockout.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/knockout/knockout.svg?style=flat-square)]()
+
+Using the MVVM pattern, [Knockout](http://knockoutjs.com/) is a library
+that has been around for a while. Knockout is a JavaScript MVVM (a
+modern variant of MVC) library that makes it easier to create rich,
+desktop-like user interfaces with JavaScript and HTML. It uses observers
+to make your UI automatically stay in sync with an underlying data
+model, along with a powerful and extensible set of declarative bindings
+to enable productive development.
