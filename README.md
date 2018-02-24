@@ -9,7 +9,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (14)](#rest-of-the-pack)
+* [Rest of the Pack (15)](#rest-of-the-pack)
 
 
 
@@ -509,3 +509,21 @@ event-update-render cycle, promises for asynchronous operations, JSX,
 non-JSX, client-side routing, SVG, two-way data binding, and optimises
 for performance, developer usability and simplicity of application
 architecture.
+
+
+### [hyperHTML](https://github.com/WebReflection/hyperHTML) - [Official Site](https://viperhtml.js.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/WebReflection/hyperHTML.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/WebReflection/hyperHTML.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/WebReflection/hyperHTML.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/WebReflection/hyperHTML.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/WebReflection/hyperHTML.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/WebReflection/hyperHTML.svg?style=flat-square)]()
+
+Framework agnostic, [hyperHTML](https://viperhtml.js.org/) was created
+to, "simplify DOM performance best practices... is 100% ECMAScript
+compliant and it weighs in at less than 4Kb". It's nothing more than a
+function, that works bound with DOM nodes and fragments as context. You
+bind your target node once, or even more if you don't care, and you
+render the same template literals over and over simply passing new data.
+
