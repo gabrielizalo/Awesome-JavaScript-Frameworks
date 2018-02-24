@@ -9,7 +9,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (13)](#rest-of-the-pack)
+* [Rest of the Pack (14)](#rest-of-the-pack)
 
 
 
@@ -489,3 +489,23 @@ learn a new language. Out of the box, Hyperapp combines state management
 with a VDOM engine that supports keyed updates & lifecycle events ---
 all with no dependencies.
 
+
+### [Hyperdom](https://github.com/featurist/hyperdom) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/featurist/hyperdom.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/featurist/hyperdom.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/featurist/hyperdom.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/featurist/hyperdom.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/featurist/hyperdom.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/featurist/hyperdom.svg?style=flat-square)]()
+
+Formerly named, Plastiq,
+[Hyperdom](https://github.com/featurist/hyperdom), is a "fast, feature
+rich virtual-dom framework for building dynamic browser applications." 
+Hyperdom applications are made of regular JavaScript objects that
+represent application state with render() methods that define how that
+state is represented in HTML. Hyperdom supports a simple
+event-update-render cycle, promises for asynchronous operations, JSX,
+non-JSX, client-side routing, SVG, two-way data binding, and optimises
+for performance, developer usability and simplicity of application
+architecture.
