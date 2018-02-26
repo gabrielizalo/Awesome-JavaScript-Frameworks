@@ -9,7 +9,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (18)](#rest-of-the-pack)
+* [Rest of the Pack (19)](#rest-of-the-pack)
 
 
 
@@ -565,6 +565,7 @@ to make your UI automatically stay in sync with an underlying data
 model, along with a powerful and extensible set of declarative bindings
 to enable productive development.
 
+
 ### [Maquette](https://github.com/AFASSoftware/maquette) - [Official Site](https://maquettejs.org/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/AFASSoftware/maquette.svg?style=flat-square)]()
@@ -582,3 +583,24 @@ Maquette allows you to specify the UI using plain Javascript. This makes
 maquette easy to learn, easy to debug and easy to deploy. Maquette is
 very unopionated by design, making integration with other frameworks and
 libraries as painless as possible.
+
+
+### [Marko](https://github.com/marko-js/marko) - [Official Site](https://markojs.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/marko-js/marko.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/marko-js/marko.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/marko-js/marko.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/marko-js/marko.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/marko-js/marko.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/marko-js/marko.svg?style=flat-square)]()
+
+A product of eBay Open Source, [Marko](https://markojs.com/) is a
+reactive front end framework that emphasizes UI performance. Similar to
+Vue, you can use single file components that include component logic,
+template and CSS. While many of the features in Marko were inspired by
+React, Marko and React offer very different usability and performance
+characteristics. Marko was designed to avoid almost all boilerplate and
+is more closely aligned with HTML. In almost all cases, a Marko UI
+component will require less lines of code than its React JSX equivalent
+while maintaining readability and allowing the same expressiveness as
+JSX.
