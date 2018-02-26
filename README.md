@@ -9,7 +9,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (20)](#rest-of-the-pack)
+* [Rest of the Pack (22)](#rest-of-the-pack)
 
 
 
@@ -644,3 +644,21 @@ small and intuitive, while still remaining powerful. Moon is compatible
 with IE9+. Moon aims to combine the best parts of best known libraries
 into a single, lightweight package, while providing improved
 performance.
+
+
+### [Nerv](https://github.com/NervJS/nerv) - [Official Site](https://nerv.aotu.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/NervJS/nerv.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/NervJS/nerv.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/NervJS/nerv.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/NervJS/nerv.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/NervJS/nerv.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/NervJS/nerv.svg?style=flat-square)]()
+
+[Nerv](https://nerv.aotu.io/) is a new framework out of China. It bills
+itself as a, "blazing fast React alternative, compatible with IE8 and
+React 16." In fact, you can convert a React app to Nerv simply by adding
+an alias in your webpack config. All of that and a library size of 4.4
+KB. Because it is so new and makes claims of superior performance vs
+React --- some members of the React community asked for clarification on
+those claims, as well as more information about Nerv. 
