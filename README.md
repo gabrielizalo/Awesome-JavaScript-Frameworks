@@ -624,3 +624,23 @@ knowledge needed to build useful applications. Mithril is all about
 getting meaningful work done efficiently. Doing file uploads? The docs
 show you how. Authentication? Documented too. Exit animations? You got
 it. No extra libraries, no magic.
+
+
+### [Moon](https://github.com/kbrsh/moon) - [Official Site](http://moonjs.ga/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/kbrsh/moon.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/kbrsh/moon.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/kbrsh/moon.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/kbrsh/moon.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/kbrsh/moon.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/kbrsh/moon.svg?style=flat-square)]()
+
+A small (7KB) library, [Moon](http://moonjs.ga/) positions itself as an
+alternative to React, Vue and Mithril. Moon is a minimal, blazing fast
+library for building user interfaces. It combines the positive aspects
+of popular libraries into one small package. It's super lightweight, and
+includes advanced optimizations to ensure fast render times. The API is
+small and intuitive, while still remaining powerful. Moon is compatible
+with IE9+. Moon aims to combine the best parts of best known libraries
+into a single, lightweight package, while providing improved
+performance.
