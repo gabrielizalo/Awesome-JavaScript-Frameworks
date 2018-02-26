@@ -9,7 +9,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (19)](#rest-of-the-pack)
+* [Rest of the Pack (20)](#rest-of-the-pack)
 
 
 
@@ -604,3 +604,23 @@ is more closely aligned with HTML. In almost all cases, a Marko UI
 component will require less lines of code than its React JSX equivalent
 while maintaining readability and allowing the same expressiveness as
 JSX.
+
+
+### [Mithril](https://github.com/MithrilJS/mithril.js) - [Official Site](https://mithril.js.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/MithrilJS/mithril.js.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/MithrilJS/mithril.js.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/MithrilJS/mithril.js.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/MithrilJS/mithril.js.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/MithrilJS/mithril.js.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/MithrilJS/mithril.js.svg?style=flat-square)]()
+
+[Mithril](https://mithril.js.org/) is a lighweight framework. Unlike
+React, it incudes functionality for routing, XHR and state management.
+Why use Mithril? In one sentence: because Mithril is pragmatic. This 10
+minute guide is a good example: that's how long it takes to learn
+components, XHR and routing - and that's just about the right amount of
+knowledge needed to build useful applications. Mithril is all about
+getting meaningful work done efficiently. Doing file uploads? The docs
+show you how. Authentication? Documented too. Exit animations? You got
+it. No extra libraries, no magic.
