@@ -9,7 +9,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (23)](#rest-of-the-pack)
+* [Rest of the Pack (24)](#rest-of-the-pack)
 
 
 
@@ -664,7 +664,7 @@ React --- some members of the React community asked for clarification on
 those claims, as well as more information about Nerv. 
 
 
-### [NX](https://github.com/nx-js/framework/) - [Official Site](https://www.nx-framework.com/)
+### [NX](https://github.com/nx-js/framework) - [Official Site](https://www.nx-framework.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nx-js/framework.svg?style=flat-square)]()
 [![GitHub tag](https://img.shields.io/github/tag/nx-js/framework.svg?style=flat-square)]()
@@ -681,3 +681,22 @@ packages. The NX core is a tiny library, responsible for one thing only.
 It allows you to create dumb components and to augment them with
 middlewares. A component executes its middlewares when it is attached to
 the DOM and it gains all the extra functionalities from them.  
+
+
+### [petit-dom](https://github.com/yelouafi/petit-dom) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/nx-js/framework.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/nx-js/framework.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/nx-js/framework.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/nx-js/framework.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/nx-js/framework.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/nx-js/framework.svg?style=flat-square)]()
+
+Authored by Yassine Elouafi and one of the fastest in performance
+benchmarks, [petit-dom](https://github.com/yelouafi/petit-dom) takes a
+minimalist approach: Diff algroithm is based on pre-optimizations
+described at https://neil.fraser.name/writing/diff/ and the algorithm
+presented in the paper "An O(ND) Difference Algorithm and Its
+Variations. There is also an excellent article which explains how the
+algorithm works. The article includes a GUI application to play with the
+algorithm.
