@@ -492,6 +492,24 @@ of your tools for some reason, you can easily swap it out for another
 and move on with life.
 
 
+### [react-lite](https://github.com/Lucifier129/react-lite) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/Lucifier129/react-lite.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/Lucifier129/react-lite.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/Lucifier129/react-lite.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/Lucifier129/react-lite.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/Lucifier129/react-lite.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/Lucifier129/react-lite.svg?style=flat-square)]()
+
+Aiming to be a lighter-weight version of React,
+[react-lite](https://github.com/Lucifier129/react-lite), is an
+"implementation of React that optimizes for small script size". 
+React-lite supports the core APIs of React, such as Virtual DOM,
+intended as a drop-in replacement for React, when you don't need
+server-side rendering in browser(no ReactDOM.renderToString &
+ReactDOM.renderToStaticMarkup).
+
+
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square)]()
