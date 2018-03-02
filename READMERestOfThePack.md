@@ -492,6 +492,25 @@ of your tools for some reason, you can easily swap it out for another
 and move on with life.
 
 
+### [RE:DOM](https://github.com/redom/redom) - [Official Site](https://redom.js.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/redom/redom.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/redom/redom.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/redom/redom.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/redom/redom.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/redom/redom.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/redom/redom.svg?style=flat-square)]()
+
+Authored by Juha Lindstedt, [RE:DOM](https://redom.js.org/) is a small
+(2KB) and fast UI library. In fact, it's one of the best performers in
+the latest benchmarks. RE:DOM is a tiny (2 KB) DOM library by Juha
+Lindstedt and contributors, which adds useful helpers to create DOM
+elements and keeping them in sync with the data. Because RE:DOM is so
+close to the metal and doesn't use virtual dom, it's actually faster and
+uses less memory than almost all virtual dom based libraries, including
+React (benchmark).
+
+
 ### [react-lite](https://github.com/Lucifier129/react-lite) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Lucifier129/react-lite.svg?style=flat-square)]()
