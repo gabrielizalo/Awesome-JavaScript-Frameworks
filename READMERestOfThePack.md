@@ -473,6 +473,25 @@ translation step and could be optimized for a monadic datastructure. I
 suspect this would achieve performance on par with Halogen.
 
 
+### [Ractive.js](https://github.com/ractivejs/ractive) - [Official Site](https://ractive.js.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ractivejs/ractive.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/ractivejs/ractive.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ractivejs/ractive.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/ractivejs/ractive.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/ractivejs/ractive.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/ractivejs/ractive.svg?style=flat-square)]()
+
+Originally created for use on the Guardian website,
+[Ractive](https://ractive.js.org/) is a reactive, template-driven UI
+library. Unlike other frameworks, Ractive works for you, not the other
+way around. It doesn't have an opinion about the other tools you want to
+use with it. It also adapts to the approach you want to take. You're not
+locked-in to a framework-specific way of thinking. Should you hate one
+of your tools for some reason, you can easily swap it out for another
+and move on with life.
+
+
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square)]()
