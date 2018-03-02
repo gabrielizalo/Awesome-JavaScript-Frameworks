@@ -1,6 +1,6 @@
 # John Hannah's Awesome JavaScript Frameworks
 
-[_Return to Categories_](readme.md)
+[_Return to Categories_](README.md#categories)
 
 
 ## Rest of the Pack
@@ -568,4 +568,4 @@ create your own custom view framework.
 
 
 
-[_Return to Categories_](#categories)
+[_Return to Categories_](README.md#categories)
