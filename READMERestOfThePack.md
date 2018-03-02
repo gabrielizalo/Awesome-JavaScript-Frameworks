@@ -437,12 +437,12 @@ the DOM and it gains all the extra functionalities from them.
 
 ### [petit-dom](https://github.com/yelouafi/petit-dom) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/nx-js/framework.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/nx-js/framework.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/nx-js/framework.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/nx-js/framework.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/nx-js/framework.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/nx-js/framework.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/yelouafi/petit-dom.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/yelouafi/petit-dom.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/yelouafi/petit-dom.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/yelouafi/petit-dom.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/yelouafi/petit-dom.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/yelouafi/petit-dom.svg?style=flat-square)]()
 
 Authored by Yassine Elouafi and one of the fastest in performance
 benchmarks, [petit-dom](https://github.com/yelouafi/petit-dom) takes a
@@ -452,6 +452,25 @@ presented in the paper "An O(ND) Difference Algorithm and Its
 Variations. There is also an excellent article which explains how the
 algorithm works. The article includes a GUI application to play with the
 algorithm.
+
+
+### [Pux](https://github.com/alexmingoia/purescript-pux) - [Official Site](http://purescript-pux.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/alexmingoia/purescript-pux.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/alexmingoia/purescript-pux.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/alexmingoia/purescript-pux.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/alexmingoia/purescript-pux.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/alexmingoia/purescript-pux.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/alexmingoia/purescript-pux.svg?style=flat-square)]()
+
+[Pux](http://purescript-pux.org/) is a framework that uses
+[PureScript](http://www.purescript.org/), a strongly-typed, functional
+programming language that complies to JavaScript. There are currently
+problems with performance: The slow performance arises from translating
+Pux's (smolder) virtual DOM to React's virtual DOM. The goal is to write
+a purescript virtual DOM module for smolder, which would avoid that
+translation step and could be optimized for a monadic datastructure. I
+suspect this would achieve performance on par with Halogen.
 
 
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
