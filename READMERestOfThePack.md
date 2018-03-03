@@ -567,6 +567,21 @@ Components for everyone. Think React + Polymer but without the bloat.
 It's intuitive to use and it weighs almost nothing. 
 
 
+### [rxdomh](https://github.com/xialvjun/rx-domh) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/xialvjun/rx-domh.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/xialvjun/rx-domh.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/xialvjun/rx-domh.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/xialvjun/rx-domh.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/xialvjun/rx-domh.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/xialvjun/rx-domh.svg?style=flat-square)]()
+
+Although interesting, [rxdomh](https://github.com/xialvjun/rx-domh) has
+the look of an experimental project. It was inspired by
+[Binding.scala](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/#binding)
+and react-flyd.
+
+
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square)]()
