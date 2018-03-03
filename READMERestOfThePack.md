@@ -549,6 +549,24 @@ type checker for JS. All types are separated from implementation though,
 so it's your call if you want to take advantage of it or just ignore it. 
 
 
+### [Riot](https://github.com/riot/riot) - [Official Site](http://riotjs.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/riot/riot.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/riot/riot.svg?style=flat-square)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/riot/riot.svg?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/riot/riot.svg?style=flat-square)]()
+[![GitHub forks](https://img.shields.io/github/forks/riot/riot.svg?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/riot/riot.svg?style=flat-square)]()
+
+The frontend space is indeed crowded, but we honestly feel the solution
+is still "out there". We believe Riot offers the right balance for
+solving the great puzzle. While React seems to do it, they have serious
+weak points that Riot will solve. A major feature of Riot is custom tags
+(which look a lot like a Vue single file component). Riot is Web
+Components for everyone. Think React + Polymer but without the bloat.
+It's intuitive to use and it weighs almost nothing. 
+
+
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square)]()
