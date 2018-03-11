@@ -639,6 +639,22 @@ abstraction, though it may not be quite as fast as hand-optimized code.
 The approximate size of this library is ~5 KB (minified and gzipped).
 
 
+### [Slim.js](https://github.com/eavichay/slim.js) - [Official Site](http://slimjs.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+
+Authored by Avichay Eyal, Slim.js is a lightweight web component
+authoring library. Slim.js is a lightning fast library for development
+of native web-components and custom-elements based modern applications.
+No black magic involved. It uses es6+DOM native API and boosts up HTML
+elements with superpowers.
+
+
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
