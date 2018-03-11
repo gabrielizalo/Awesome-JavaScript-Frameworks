@@ -71,6 +71,24 @@ the lowest common denominator, switching from one framework to another
 becomes frictionless.
 
 
+### [CxJS](https://github.com/codaxy/cxjs) - [Official Site](https://cxjs.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/codaxy/cxjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/codaxy/cxjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/codaxy/cxjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/codaxy/cxjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/codaxy/cxjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/codaxy/cxjs.svg?style=flat-square&maxAge=5184000)]()
+
+CxJS, or simply Cx, is a feature-rich JavaScript framework for building
+complex web front-ends, such as BI tools, dashboards and admin apps.
+Modern frameworks such as React and Angular provide an excellent base
+for building UI components, however, component implementation and many
+other application aspects are left to the developer to figure out. CxJS
+tries to fill that gap and provide the all necessary ingredients
+required for modern web applications.
+
+
 ### [Cycle.js](https://github.com/cyclejs/cyclejs) - [Official Site](https://cycle.js.org/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/cyclejs/cyclejs.svg?style=flat-square&maxAge=5184000)]()
