@@ -621,6 +621,24 @@ string parsing, and build a view of layer node relation tree generated
 by the UI view of the quick view of a high-performance engine.
 
 
+### [Simulacra.js](https://github.com/daliwali/simulacra) - [Official Site](https://simulacra.js.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/daliwali/simulacra.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/daliwali/simulacra.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/daliwali/simulacra.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/daliwali/simulacra.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/daliwali/simulacra.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/daliwali/simulacra.svg?style=flat-square&maxAge=5184000)]()
+
+It's fair to say that no other framework has a smaller API than
+_Simulacra_. Simulacra.js returns a DOM Node that updates when an object
+changes. Its API is a single function, and it does not introduce any new
+syntax or a template language. It recursively adds metaprogramming
+features to vanilla data structures to work. It is a fairly low cost
+abstraction, though it may not be quite as fast as hand-optimized code.
+The approximate size of this library is ~5 KB (minified and gzipped).
+
+
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
