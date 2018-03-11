@@ -8,12 +8,12 @@
 
 ### [AppRun](https://github.com/yysun/apprun) - [Official Site](https://yysun.github.com/apprun)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/yysun/apprun.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/yysun/apprun.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/yysun/apprun.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/yysun/apprun.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/yysun/apprun.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/yysun/apprun.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/yysun/apprun.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/yysun/apprun.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/yysun/apprun.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/yysun/apprun.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/yysun/apprun.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/yysun/apprun.svg?style=flat-square&maxAge=5184000)]()
 
 Authored by Yiyi Sun, AppRun in a lightweight (3KB) library that uses 
 TypeScript as the development language and takes inspiration from Elm, 
@@ -23,12 +23,12 @@ subscription.
 
 ### [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/ThoughtWorksInc/Binding.scala.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ThoughtWorksInc/Binding.scala.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ThoughtWorksInc/Binding.scala.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ThoughtWorksInc/Binding.scala.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/Binding.scala.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/ThoughtWorksInc/Binding.scala.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ThoughtWorksInc/Binding.scala.svg?style=flat-square&maxAge=5184000)]()
 
 Binding.scala is a one-way data-binding library written in Scala, 
 although it targets both JavaScript and JVM. Binding.scala can be used 
@@ -41,12 +41,12 @@ than other reactive web frameworks like ReactJS.
 
 ### [Bobril](https://github.com/Bobris/Bobril) - [Official Site](http://bobril.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Bobris/Bobril.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/Bobris/Bobril.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/Bobris/Bobril.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/Bobris/Bobril.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/Bobris/Bobril.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/Bobris/Bobril.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Bobris/Bobril.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Bobris/Bobril.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/Bobris/Bobril.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Bobris/Bobril.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/Bobris/Bobril.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Bobris/Bobril.svg?style=flat-square&maxAge=5184000)]()
 
 Bobril takes inspiration from React and Mithril. It is fast, low size 
 framework with rendering based on Virtual DOM. The main focus is on 
@@ -56,12 +56,12 @@ page can be defined simply by composing JavaScript objects.
 
 ### [Choo](https://github.com/choojs/choo) - [Official Site](https://choo.io/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/choojs/choo.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/choojs/choo.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/choojs/choo.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/choojs/choo.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/choojs/choo.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/choojs/choo.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/choojs/choo.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/choojs/choo.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/choojs/choo.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/choojs/choo.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/choojs/choo.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/choojs/choo.svg?style=flat-square&maxAge=5184000)]()
 
 Choo is a functional library for building user interfaces. It's small 
 (4KB) and supports server rendering. They believe frameworks should be 
@@ -73,12 +73,12 @@ becomes frictionless.
 
 ### [Cycle.js](https://github.com/cyclejs/cyclejs) - [Official Site](https://cycle.js.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/cyclejs/cyclejs.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/cyclejs/cyclejs.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/cyclejs/cyclejs.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/cyclejs/cyclejs.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/cyclejs/cyclejs.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/cyclejs/cyclejs.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/cyclejs/cyclejs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/cyclejs/cyclejs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/cyclejs/cyclejs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/cyclejs/cyclejs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/cyclejs/cyclejs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/cyclejs/cyclejs.svg?style=flat-square&maxAge=5184000)]()
 
 Billed as a "functional and reactive JavaScript framework for 
 predictable code" Cycle.js is primarily the work of André Staltz. 
@@ -91,12 +91,12 @@ that handle DOM effects, HTTP effects, etc.
 
 ### [DIO](https://github.com/thysultan/dio.js) - [Official Site](https://dio.js.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/thysultan/dio.js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/thysultan/dio.js.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/thysultan/dio.js.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/thysultan/dio.js.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/thysultan/dio.js.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/thysultan/dio.js.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
 
 DIO is a lightweight (7KB), declarative UI library that offers an 
 alternative to React. There a lot of small details that give DIO its 
@@ -106,12 +106,12 @@ larger surface area of what React already supports and adding to this.
 
 ### [Dojo](https://github.com/dojo/meta) - [Official Site](https://dojo.io/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/dojo/meta.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/dojo/meta.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/dojo/meta.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/dojo/meta.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/dojo/meta.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/dojo/meta.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/dojo/meta.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/dojo/meta.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/dojo/meta.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/dojo/meta.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/dojo/meta.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/dojo/meta.svg?style=flat-square&maxAge=5184000)]()
 
 One of the important principles behind [Dojo](https://dojo.io/) is
 accessibility, which makes me think it's a potential candidate for
@@ -126,12 +126,12 @@ a major requirement of most enterprise applications.
 
 ### [Domvm](https://github.com/leeoniya/domvm) - [Official Site](http://leeoniya.github.io/domvm/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/leeoniya/domvm.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/leeoniya/domvm.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/leeoniya/domvm.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/leeoniya/domvm.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/leeoniya/domvm.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/leeoniya/domvm.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
 
 [Domvm](http://leeoniya.github.io/domvm/) is a, "thin, fast,
 dependency-free vdom view layer". Like Vue, it can be used as a jQuery
@@ -148,12 +148,12 @@ routers, streams and immutable libs.
 
 ### [DoneJS](https://github.com/dvajs/dva) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/dvajs/dva.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/dvajs/dva.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/dvajs/dva.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/dvajs/dva.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/dvajs/dva.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/dvajs/dva.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/dvajs/dva.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/dvajs/dva.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/dvajs/dva.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/dvajs/dva.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/dvajs/dva.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/dvajs/dva.svg?style=flat-square&maxAge=5184000)]()
 
 [DoneJS](https://github.com/dvajs/dva) is a successor to JavaScriptMVC,
 which was first released in 2008. DoneJS offers everything you need to
@@ -165,12 +165,12 @@ a feature.
 
 ### [Etch](https://github.com/atom/etch) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/atom/etch.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/atom/etch.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/atom/etch.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/atom/etch.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/atom/etch.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/atom/etch.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/atom/etch.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/atom/etch.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/atom/etch.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/atom/etch.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/atom/etch.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/atom/etch.svg?style=flat-square&maxAge=5184000)]()
 
 Although [Etch](https://github.com/atom/etch) can be used for front end
 web applications, its target usage is in Atom packages and the Electron
@@ -183,12 +183,12 @@ with Atom packages and Electron applications in mind.
 
 ### [Gruu](https://github.com/MarekLabuz/gruu) - [Official Site](https://gruujs.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/MarekLabuz/gruu.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/MarekLabuz/gruu.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/MarekLabuz/gruu.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/MarekLabuz/gruu.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/MarekLabuz/gruu.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/MarekLabuz/gruu.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/MarekLabuz/gruu.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/MarekLabuz/gruu.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/MarekLabuz/gruu.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/MarekLabuz/gruu.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/MarekLabuz/gruu.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/MarekLabuz/gruu.svg?style=flat-square&maxAge=5184000)]()
 
 [Gruu](https://gruujs.com/) is a relatively new framework by Marek
 Łabuz. I believe that none of the existing libraries is perfect. Each
@@ -206,12 +206,12 @@ components.
 
 ### [Glimmer](https://github.com/glimmerjs/glimmer.js) - [Official Site](https://glimmerjs.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/glimmerjs/glimmer.js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/glimmerjs/glimmer.js.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/glimmerjs/glimmer.js.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/glimmerjs/glimmer.js.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/glimmerjs/glimmer.js.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/glimmerjs/glimmer.js.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/glimmerjs/glimmer.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/glimmerjs/glimmer.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/glimmerjs/glimmer.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/glimmerjs/glimmer.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/glimmerjs/glimmer.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/glimmerjs/glimmer.js.svg?style=flat-square&maxAge=5184000)]()
 
 [Glimmer](https://glimmerjs.com/) is part of the Ember ecosystem and
 even uses the Ember CLI to manage projects. As mentioned when discussing
@@ -222,12 +222,12 @@ components can be dropped directly into Ember without a problem.
 
 ### [Hyperapp](https://github.com/hyperapp/hyperapp) - [Official Site](https://hyperapp.js.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/hyperapp/hyperapp.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/hyperapp/hyperapp.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/hyperapp/hyperapp.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/hyperapp/hyperapp.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/hyperapp/hyperapp.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/hyperapp/hyperapp.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
 
 Coming in at a very slender 1KB, [Hyperapp](https://hyperapp.js.org/) is
 a library with a minimalist API. It does, however, support server
@@ -244,12 +244,12 @@ all with no dependencies.
 
 ### [Hyperdom](https://github.com/featurist/hyperdom) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/featurist/hyperdom.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/featurist/hyperdom.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/featurist/hyperdom.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/featurist/hyperdom.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/featurist/hyperdom.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/featurist/hyperdom.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/featurist/hyperdom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/featurist/hyperdom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/featurist/hyperdom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/featurist/hyperdom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/featurist/hyperdom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/featurist/hyperdom.svg?style=flat-square&maxAge=5184000)]()
 
 Formerly named, Plastiq,
 [Hyperdom](https://github.com/featurist/hyperdom), is a "fast, feature
@@ -265,12 +265,12 @@ architecture.
 
 ### [hyperHTML](https://github.com/WebReflection/hyperHTML) - [Official Site](https://viperhtml.js.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/WebReflection/hyperHTML.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/WebReflection/hyperHTML.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/WebReflection/hyperHTML.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/WebReflection/hyperHTML.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/WebReflection/hyperHTML.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/WebReflection/hyperHTML.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/WebReflection/hyperHTML.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/WebReflection/hyperHTML.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/WebReflection/hyperHTML.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/WebReflection/hyperHTML.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/WebReflection/hyperHTML.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/WebReflection/hyperHTML.svg?style=flat-square&maxAge=5184000)]()
 
 Framework agnostic, [hyperHTML](https://viperhtml.js.org/) was created
 to, "simplify DOM performance best practices... is 100% ECMAScript
@@ -282,12 +282,12 @@ render the same template literals over and over simply passing new data.
 
 ### [Ivi](https://github.com/ivijs/ivi) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ivijs/ivi.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/ivijs/ivi.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ivijs/ivi.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/ivijs/ivi.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/ivijs/ivi.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/ivijs/ivi.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
 
 It seems that nowadays many people in javascript community were
 brainwashed that small library size is a synonym to fast performance and
@@ -302,12 +302,12 @@ Behavior, Performance / Developer Experience and Library Size.
 
 ### [Knockout](https://github.com/knockout/knockout) - [Official Site](http://knockoutjs.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/knockout/knockout.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/knockout/knockout.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/knockout/knockout.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/knockout/knockout.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/knockout/knockout.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/knockout/knockout.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/knockout/knockout.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/knockout/knockout.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/knockout/knockout.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/knockout/knockout.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/knockout/knockout.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/knockout/knockout.svg?style=flat-square&maxAge=5184000)]()
 
 Using the MVVM pattern, [Knockout](http://knockoutjs.com/) is a library
 that has been around for a while. Knockout is a JavaScript MVVM (a
@@ -320,12 +320,12 @@ to enable productive development.
 
 ### [Maquette](https://github.com/AFASSoftware/maquette) - [Official Site](https://maquettejs.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/AFASSoftware/maquette.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/AFASSoftware/maquette.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/AFASSoftware/maquette.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/AFASSoftware/maquette.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/AFASSoftware/maquette.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/AFASSoftware/maquette.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/AFASSoftware/maquette.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/AFASSoftware/maquette.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/AFASSoftware/maquette.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/AFASSoftware/maquette.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/AFASSoftware/maquette.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/AFASSoftware/maquette.svg?style=flat-square&maxAge=5184000)]()
 
 [Maquette](https://maquettejs.org/) is a lightweight (3KB) library
 inspired by React, Mithril and Mercury. Maquette is a virtual DOM
@@ -339,12 +339,12 @@ libraries as painless as possible.
 
 ### [Marko](https://github.com/marko-js/marko) - [Official Site](https://markojs.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/marko-js/marko.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/marko-js/marko.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/marko-js/marko.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/marko-js/marko.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/marko-js/marko.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/marko-js/marko.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/marko-js/marko.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/marko-js/marko.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/marko-js/marko.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/marko-js/marko.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/marko-js/marko.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/marko-js/marko.svg?style=flat-square&maxAge=5184000)]()
 
 A product of eBay Open Source, [Marko](https://markojs.com/) is a
 reactive front end framework that emphasizes UI performance. Similar to
@@ -360,12 +360,12 @@ JSX.
 
 ### [Mithril](https://github.com/MithrilJS/mithril.js) - [Official Site](https://mithril.js.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/MithrilJS/mithril.js.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/MithrilJS/mithril.js.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/MithrilJS/mithril.js.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/MithrilJS/mithril.js.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/MithrilJS/mithril.js.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/MithrilJS/mithril.js.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/MithrilJS/mithril.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/MithrilJS/mithril.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/MithrilJS/mithril.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/MithrilJS/mithril.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/MithrilJS/mithril.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/MithrilJS/mithril.js.svg?style=flat-square&maxAge=5184000)]()
 
 [Mithril](https://mithril.js.org/) is a lighweight framework. Unlike
 React, it incudes functionality for routing, XHR and state management.
@@ -380,12 +380,12 @@ it. No extra libraries, no magic.
 
 ### [Moon](https://github.com/kbrsh/moon) - [Official Site](http://moonjs.ga/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/kbrsh/moon.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/kbrsh/moon.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/kbrsh/moon.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/kbrsh/moon.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/kbrsh/moon.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/kbrsh/moon.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/kbrsh/moon.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/kbrsh/moon.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/kbrsh/moon.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/kbrsh/moon.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/kbrsh/moon.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/kbrsh/moon.svg?style=flat-square&maxAge=5184000)]()
 
 A small (7KB) library, [Moon](http://moonjs.ga/) positions itself as an
 alternative to React, Vue and Mithril. Moon is a minimal, blazing fast
@@ -400,12 +400,12 @@ performance.
 
 ### [Nerv](https://github.com/NervJS/nerv) - [Official Site](https://nerv.aotu.io/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/NervJS/nerv.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/NervJS/nerv.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/NervJS/nerv.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/NervJS/nerv.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/NervJS/nerv.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/NervJS/nerv.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/NervJS/nerv.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/NervJS/nerv.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/NervJS/nerv.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/NervJS/nerv.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/NervJS/nerv.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/NervJS/nerv.svg?style=flat-square&maxAge=5184000)]()
 
 [Nerv](https://nerv.aotu.io/) is a new framework out of China. It bills
 itself as a, "blazing fast React alternative, compatible with IE8 and
@@ -418,12 +418,12 @@ those claims, as well as more information about Nerv.
 
 ### [NX](https://github.com/nx-js/framework) - [Official Site](https://www.nx-framework.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/nx-js/framework.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/nx-js/framework.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/nx-js/framework.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/nx-js/framework.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/nx-js/framework.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/nx-js/framework.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/nx-js/framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/nx-js/framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/nx-js/framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/nx-js/framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/nx-js/framework.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/nx-js/framework.svg?style=flat-square&maxAge=5184000)]()
 
 NX is the work of Bertalan Miklos, JavaScript engineer at RisingStack.
 NX is a modular front-end framework - built with ES6 and Web Components.
@@ -437,12 +437,12 @@ the DOM and it gains all the extra functionalities from them.
 
 ### [petit-dom](https://github.com/yelouafi/petit-dom) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/yelouafi/petit-dom.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/yelouafi/petit-dom.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/yelouafi/petit-dom.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/yelouafi/petit-dom.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/yelouafi/petit-dom.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/yelouafi/petit-dom.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/yelouafi/petit-dom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/yelouafi/petit-dom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/yelouafi/petit-dom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/yelouafi/petit-dom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/yelouafi/petit-dom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/yelouafi/petit-dom.svg?style=flat-square&maxAge=5184000)]()
 
 Authored by Yassine Elouafi and one of the fastest in performance
 benchmarks, [petit-dom](https://github.com/yelouafi/petit-dom) takes a
@@ -456,12 +456,12 @@ algorithm.
 
 ### [Pux](https://github.com/alexmingoia/purescript-pux) - [Official Site](http://purescript-pux.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/alexmingoia/purescript-pux.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/alexmingoia/purescript-pux.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/alexmingoia/purescript-pux.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/alexmingoia/purescript-pux.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/alexmingoia/purescript-pux.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/alexmingoia/purescript-pux.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/alexmingoia/purescript-pux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/alexmingoia/purescript-pux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/alexmingoia/purescript-pux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/alexmingoia/purescript-pux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/alexmingoia/purescript-pux.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/alexmingoia/purescript-pux.svg?style=flat-square&maxAge=5184000)]()
 
 [Pux](http://purescript-pux.org/) is a framework that uses
 [PureScript](http://www.purescript.org/), a strongly-typed, functional
@@ -475,12 +475,12 @@ suspect this would achieve performance on par with Halogen.
 
 ### [Ractive.js](https://github.com/ractivejs/ractive) - [Official Site](https://ractive.js.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ractivejs/ractive.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/ractivejs/ractive.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ractivejs/ractive.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/ractivejs/ractive.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/ractivejs/ractive.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/ractivejs/ractive.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ractivejs/ractive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ractivejs/ractive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ractivejs/ractive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ractivejs/ractive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/ractivejs/ractive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ractivejs/ractive.svg?style=flat-square&maxAge=5184000)]()
 
 Originally created for use on the Guardian website,
 [Ractive](https://ractive.js.org/) is a reactive, template-driven UI
@@ -494,12 +494,12 @@ and move on with life.
 
 ### [RE:DOM](https://github.com/redom/redom) - [Official Site](https://redom.js.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/redom/redom.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/redom/redom.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/redom/redom.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/redom/redom.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/redom/redom.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/redom/redom.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/redom/redom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/redom/redom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/redom/redom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/redom/redom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/redom/redom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/redom/redom.svg?style=flat-square&maxAge=5184000)]()
 
 Authored by Juha Lindstedt, [RE:DOM](https://redom.js.org/) is a small
 (2KB) and fast UI library. In fact, it's one of the best performers in
@@ -513,12 +513,12 @@ React (benchmark).
 
 ### [react-lite](https://github.com/Lucifier129/react-lite) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Lucifier129/react-lite.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/Lucifier129/react-lite.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/Lucifier129/react-lite.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/Lucifier129/react-lite.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/Lucifier129/react-lite.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/Lucifier129/react-lite.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Lucifier129/react-lite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Lucifier129/react-lite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/Lucifier129/react-lite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Lucifier129/react-lite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/Lucifier129/react-lite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Lucifier129/react-lite.svg?style=flat-square&maxAge=5184000)]()
 
 Aiming to be a lighter-weight version of React,
 [react-lite](https://github.com/Lucifier129/react-lite), is an
@@ -531,12 +531,12 @@ ReactDOM.renderToStaticMarkup).
 
 ### [Reflex](https://github.com/mozilla/reflex) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/reflex.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/mozilla/reflex.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/mozilla/reflex.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/mozilla/reflex.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/mozilla/reflex.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/mozilla/reflex.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/reflex.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mozilla/reflex.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/mozilla/reflex.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mozilla/reflex.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/mozilla/reflex.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mozilla/reflex.svg?style=flat-square&maxAge=5184000)]()
 
 Authored by Irakli Gozalishvili of Mozilla,
 [Reflex](https://github.com/mozilla/reflex) is a library heavily
@@ -551,12 +551,12 @@ so it's your call if you want to take advantage of it or just ignore it.
 
 ### [Riot](https://github.com/riot/riot) - [Official Site](http://riotjs.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/riot/riot.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/riot/riot.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/riot/riot.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/riot/riot.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/riot/riot.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/riot/riot.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/riot/riot.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/riot/riot.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/riot/riot.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/riot/riot.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/riot/riot.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/riot/riot.svg?style=flat-square&maxAge=5184000)]()
 
 The frontend space is indeed crowded, but we honestly feel the solution
 is still "out there". We believe Riot offers the right balance for
@@ -569,12 +569,12 @@ It's intuitive to use and it weighs almost nothing.
 
 ### [rxdomh](https://github.com/xialvjun/rx-domh) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/xialvjun/rx-domh.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/xialvjun/rx-domh.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/xialvjun/rx-domh.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/xialvjun/rx-domh.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/xialvjun/rx-domh.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/xialvjun/rx-domh.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/xialvjun/rx-domh.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/xialvjun/rx-domh.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/xialvjun/rx-domh.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/xialvjun/rx-domh.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/xialvjun/rx-domh.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/xialvjun/rx-domh.svg?style=flat-square&maxAge=5184000)]()
 
 Although interesting, [rxdomh](https://github.com/xialvjun/rx-domh) has
 the look of an experimental project. It was inspired by
@@ -584,12 +584,12 @@ and react-flyd.
 
 ### [San](https://github.com/ecomfe/san) - [Official Site](https://ecomfe.github.io/san/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ecomfe/san.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/ecomfe/san.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ecomfe/san.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/ecomfe/san.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/ecomfe/san.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/ecomfe/san.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
 
 San is another project from Chinese developers. San, is a MVVM component
 framework. Its small size (12K), good compatibility (IE6), high
@@ -605,12 +605,12 @@ by the UI view of the quick view of a high-performance engine.
 
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square)]()
-[![GitHub tag](https://img.shields.io/github/tag/jorgebucaran/ultradom.svg?style=flat-square)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/jorgebucaran/ultradom.svg?style=flat-square)]()
-[![GitHub stars](https://img.shields.io/github/stars/jorgebucaran/ultradom.svg?style=flat-square)]()
-[![GitHub forks](https://img.shields.io/github/forks/jorgebucaran/ultradom.svg?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/jorgebucaran/ultradom.svg?style=flat-square)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
 
 [Ultradom](https://github.com/jorgebucaran/ultradom) is interesting in
 that it's authored by the same guy behind [Hyperapp](#hyperapp), Jorge
