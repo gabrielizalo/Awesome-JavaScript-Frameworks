@@ -641,18 +641,67 @@ The approximate size of this library is ~5 KB (minified and gzipped).
 
 ### [Slim.js](https://github.com/eavichay/slim.js) - [Official Site](http://slimjs.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
 
 Authored by Avichay Eyal, Slim.js is a lightweight web component
 authoring library. Slim.js is a lightning fast library for development
 of native web-components and custom-elements based modern applications.
 No black magic involved. It uses es6+DOM native API and boosts up HTML
 elements with superpowers.
+
+
+### [Steam.js](https://github.com/eavichay/slim.js) - [Official Site](https://stemjs.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/mciucu/stemjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/mciucu/stemjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/mciucu/stemjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/mciucu/stemjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/mciucu/stemjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/mciucu/stemjs.svg?style=flat-square&maxAge=5184000)]()
+
+The framework that tries not to be a framework. The syntax might look 
+familiar, but Stem is designed to empower individual components and not 
+the framework... Stem was designed with code maintainability as a 
+primary purpose, regardless if your project has 100 or 100k lines of 
+code.
+
+
+### [Stencil](https://github.com/ionic-team/stencil) - [Official Site](https://stenciljs.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/stencil.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ionic-team/stencil.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/ionic-team/stencil.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ionic-team/stencil.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/ionic-team/stencil.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ionic-team/stencil.svg?style=flat-square&maxAge=5184000)]()
+
+Stencil is a "compiler that generates Web Components". Stencil combines 
+the best concepts of the most popular frontend frameworks into a 
+compile-time rather than run-time tool. Stencil takes TypeScript, JSX, a 
+tiny virtual DOM layer, efficient one-way data binding, an asynchronous 
+rendering pipeline (similar to React Fiber), and lazy-loading out of the 
+box, and generates 100% standards-based Web Components that run in any 
+browser supporting the Custom Elements v1 spec.
+
+
+### [Stimulus](https://github.com/stimulusjs/stimulus) - [Official Site](https://stimulusjs.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/stimulusjs/stimulus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/stimulusjs/stimulus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/stimulusjs/stimulus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/stimulusjs/stimulus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/stimulusjs/stimulus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/stimulusjs/stimulus.svg?style=flat-square&maxAge=5184000)]()
+
+A modest JavaScript framework for the HTML you already have. Unlike 
+other frameworks, Stimulus doesn’t take over your application’s entire 
+front-end. Rather, it’s designed to augment your HTML by connecting 
+elements to JavaScript objects automatically.
 
 
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
