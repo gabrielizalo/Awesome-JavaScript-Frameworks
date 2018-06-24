@@ -720,6 +720,21 @@ they are converted into direct DOM instructions that run fast. Thanks
 to S, they react automatically and efficiently as your data changes. 
 
 
+### [Thermite](https://github.com/paf31/purescript-thermite) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/paf31/purescript-thermite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/paf31/purescript-thermite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/paf31/purescript-thermite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/paf31/purescript-thermite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/paf31/purescript-thermite.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/paf31/purescript-thermite.svg?style=flat-square&maxAge=5184000)]()
+
+purescript-thermite is a PureScript wrapper for purescript-react. It 
+does not provide all of the functionality of React, but instead 
+provides a clean API to the most commonly-used parts of its API. It is 
+possible to use purescript-react for more specialized use cases. 
+
+
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
