@@ -735,6 +735,26 @@ provides a clean API to the most commonly-used parts of its API. It is
 possible to use purescript-react for more specialized use cases. 
 
 
+### [TSERS](https://github.com/tsers-js/core) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/tsers-js/core.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/tsers-js/core.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/tsers-js/core.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/tsers-js/core.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/tsers-js/core.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/tsers-js/core.svg?style=flat-square&maxAge=5184000)]()
+
+TSERS stands for Transform-Signal-Executor framework for Reactive 
+Streams. In the era of the JavaScript fatigue, new JS frameworks pop up 
+like mushrooms after the rain, each of them providing some new and 
+revolutionary concepts. So overwhelming! That's why TSERS was created. 
+It doesn't provide anything new. Instead, it combines some old and 
+well-known techniques/concepts and packs them into single compact form 
+suitable for the modern web application development.
+Technically the closest relative to TSERS is Cycle.js, but conceptually 
+the closest one is CALM^2.
+
+
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()

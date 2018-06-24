@@ -9,7 +9,7 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 * [The Big Three (3)](#the-big-three)
 * [Historically Significant (3)](#historically-significant)
 * [Notable (7)](#notable)
-* [Rest of the Pack (41)](READMERestOfThePack.md) 
+* [Rest of the Pack (42)](READMERestOfThePack.md) 
 
 
 
