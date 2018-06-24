@@ -704,6 +704,22 @@ front-end. Rather, it’s designed to augment your HTML by connecting
 elements to JavaScript objects automatically.
 
 
+### [Surplus](https://github.com/adamhaile/surplus) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/adamhaile/surplus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/adamhaile/surplus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/adamhaile/surplus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/adamhaile/surplus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/adamhaile/surplus.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/adamhaile/surplus.svg?style=flat-square&maxAge=5184000)]()
+
+Surplus is a compiler and runtime to allow S.js applications to create 
+high-performance web views using JSX. Thanks to JSX, your views are 
+clear, declarative definitions of your UI. Thanks to Surplus' compiler, 
+they are converted into direct DOM instructions that run fast. Thanks 
+to S, they react automatically and efficiently as your data changes. 
+
+
 ### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
