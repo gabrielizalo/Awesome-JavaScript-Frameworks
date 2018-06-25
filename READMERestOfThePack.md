@@ -786,6 +786,20 @@ Vidom is just a library to build UI. It's highly inspired from React
 and based on the same ideas. Its main goal is to provide as fast as 
 possible lightweight implementation with API similar to React.
 
+### [Vuera](https://github.com/akxcv/vuera) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/akxcv/vuera.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/akxcv/vuera.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/akxcv/vuera.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/akxcv/vuera.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/akxcv/vuera.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/akxcv/vuera.svg?style=flat-square&maxAge=5184000)]()
+
+Vuera is an unusual library. It allows you to use React componets 
+inside Vue and vice versa. The anticipated use cases are when migrating 
+between React and Vue or when using both frameworks with a single 
+project.
+
 
 
 [_Return to Categories_](README.md#categories)
