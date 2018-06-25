@@ -773,5 +773,19 @@ dependencies. Mix it with your favorite state management library or
 create your own custom view framework.
 
 
+### [Vidom](https://github.com/dfilatov/vidom) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/dfilatov/vidom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/dfilatov/vidom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/dfilatov/vidom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/dfilatov/vidom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/dfilatov/vidom.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/dfilatov/vidom.svg?style=flat-square&maxAge=5184000)]()
+
+Vidom is just a library to build UI. It's highly inspired from React 
+and based on the same ideas. Its main goal is to provide as fast as 
+possible lightweight implementation with API similar to React.
+
+
 
 [_Return to Categories_](README.md#categories)
