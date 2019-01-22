@@ -16,6 +16,22 @@ List of Awesome JavaScript Frameworks based on **[The Ultimate Guide to JavaScri
 ## The Big Three
 
 
+### [Vue.js](https://github.com/vuejs/vue) - [Official Site](https://vuejs.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
+
+The Progressive JavaScript Framework. It is widely considered to be the 
+easiest to learn. It is similar to React in many respects, but also has 
+things in common with AngularJS — for example, directives and templates. 
+Vue's relative simplicity, developer experience, and good performance 
+have contributed to a huge surge in its popularity. 
+
+
 ### [React](https://github.com/facebook/react) - [Official Site](https://reactjs.org/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react.svg?style=flat-square&maxAge=5184000)]()
@@ -48,22 +64,6 @@ feature of Angular is its use of TypeScript as the development language.
 This has made the framework well-suited to those coming from traditional 
 object-oriented languages like Java and C#, as TypeScript takes 
 inspiration from those languages. 
-
-
-### [Vue.js](https://github.com/vuejs/vue) - [Official Site](https://vuejs.org/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/vuejs/vue.svg?style=flat-square&maxAge=5184000)]()
-
-The Progressive JavaScript Framework. It is widely considered to be the 
-easiest to learn. It is similar to React in many respects, but also has 
-things in common with AngularJS — for example, directives and templates. 
-Vue's relative simplicity, developer experience, and good performance 
-have contributed to a huge surge in its popularity. 
 
 
 
