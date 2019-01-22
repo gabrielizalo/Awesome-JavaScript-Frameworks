@@ -107,19 +107,20 @@ These I/O effects in the external world are managed by drivers: plugins
 that handle DOM effects, HTTP effects, etc.
 
 
-### [DIO](https://github.com/thysultan/dio.js) - [Official Site](https://dio.js.org/)
+### [DYO](https://github.com/dyo/dyo) - [Official Site](https://dyo.js.org)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/thysultan/dio.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/dyo/dyo.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/dyo/dyo.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/dyo/dyo.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/dyo/dyo.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/dyo/dyo.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/dyo/dyo.svg?style=flat-square&maxAge=5184000)]()
 
-DIO is a lightweight (7KB), declarative UI library that offers an 
-alternative to React. There a lot of small details that give DIO its 
-edge that don't realy touch on new API's but rather on creating a 
-larger surface area of what React already supports and adding to this.
+Dyo is a JavaScript library for building user interfaces.
+Light — weight library with a small API surface that allows you to 
+build simple and complex component based user interfaces.
+Declarative Efficiently render just the right components in response 
+to data, making your code more predictable and easier to reason about.
 
 
 ### [Dojo](https://github.com/dojo/meta) - [Official Site](https://dojo.io/)
@@ -142,16 +143,16 @@ decoupling an application from a particular language or culture, and is
 a major requirement of most enterprise applications.
 
 
-### [Domvm](https://github.com/leeoniya/domvm) - [Official Site](http://leeoniya.github.io/domvm/)
+### [Domvm](https://github.com/domvm/domvm) - [Official Site](https://domvm.github.io/domvm/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/leeoniya/domvm.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/domvm/domvm.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/domvm/domvm.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/domvm/domvm.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/domvm/domvm.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/domvm/domvm.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/domvm/domvm.svg?style=flat-square&maxAge=5184000)]()
 
-[Domvm](http://leeoniya.github.io/domvm/) is a, "thin, fast,
+[Domvm](https://domvm.github.io/domvm/) is a, "thin, fast,
 dependency-free vdom view layer". Like Vue, it can be used as a jQuery
 replacement. Similar to React, it leaves concerns beyond views to other
 libraries (but provides a good list of options). domvm is a flexible,
@@ -238,16 +239,16 @@ lighter weight option for building single page apps. If needed, Glimmer
 components can be dropped directly into Ember without a problem. 
 
 
-### [Hyperapp](https://github.com/hyperapp/hyperapp) - [Official Site](https://hyperapp.js.org/)
+### [Hyperapp](https://github.com/jorgebucaran/hyperapp) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/hyperapp/hyperapp.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/hyperapp.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jorgebucaran/hyperapp.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/jorgebucaran/hyperapp.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jorgebucaran/hyperapp.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/jorgebucaran/hyperapp.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jorgebucaran/hyperapp.svg?style=flat-square&maxAge=5184000)]()
 
-Coming in at a very slender 1KB, [Hyperapp](https://hyperapp.js.org/) is
+Coming in at a very slender 1KB, Hyperapp is
 a library with a minimalist API. It does, however, support server
 rendering. It is a JavaScript library for building web applications.
 Hyperapp was born out of the attempt to do more with less. We have
@@ -298,14 +299,14 @@ bind your target node once, or even more if you don't care, and you
 render the same template literals over and over simply passing new data.
 
 
-### [Ivi](https://github.com/ivijs/ivi) - No Official Site
+### [Ivi](https://github.com/localvoid/ivi) - No Official Site
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/ivijs/ivi.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/localvoid/ivi.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/localvoid/ivi.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/localvoid/ivi.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/localvoid/ivi.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/localvoid/ivi.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/localvoid/ivi.svg?style=flat-square&maxAge=5184000)]()
 
 It seems that nowadays many people in javascript community were
 brainwashed that small library size is a synonym to fast performance and
@@ -600,14 +601,14 @@ the look of an experimental project. It was inspired by
 and react-flyd.
 
 
-### [San](https://github.com/ecomfe/san) - [Official Site](https://ecomfe.github.io/san/)
+### [San](https://github.com/baidu/san) - [Official Site](https://baidu.github.io/san/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/ecomfe/san.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/baidu/san.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/baidu/san.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/baidu/san.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/baidu/san.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/baidu/san.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/baidu/san.svg?style=flat-square&maxAge=5184000)]()
 
 San is another project from Chinese developers. San, is a MVVM component
 framework. Its small size (12K), good compatibility (IE6), high
@@ -639,14 +640,14 @@ abstraction, though it may not be quite as fast as hand-optimized code.
 The approximate size of this library is ~5 KB (minified and gzipped).
 
 
-### [Slim.js](https://github.com/eavichay/slim.js) - [Official Site](http://slimjs.com/)
+### [Slim.js](https://github.com/slimjs/slim.js) - [Official Site](http://slimjs.com/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/eavichay/slim.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/slimjs/slim.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/slimjs/slim.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/slimjs/slim.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/slimjs/slim.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/slimjs/slim.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/slimjs/slim.js.svg?style=flat-square&maxAge=5184000)]()
 
 Authored by Avichay Eyal, Slim.js is a lightweight web component
 authoring library. Slim.js is a lightning fast library for development
@@ -655,7 +656,7 @@ No black magic involved. It uses es6+DOM native API and boosts up HTML
 elements with superpowers.
 
 
-### [Steam.js](https://github.com/eavichay/slim.js) - [Official Site](https://stemjs.org/)
+### [Steam.js](https://github.com/mciucu/stemjs) - [Official Site](https://stemjs.org/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mciucu/stemjs.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/mciucu/stemjs.svg?style=flat-square&maxAge=5184000)]()
@@ -702,6 +703,24 @@ A modest JavaScript framework for the HTML you already have. Unlike
 other frameworks, Stimulus doesn’t take over your application’s entire 
 front-end. Rather, it’s designed to augment your HTML by connecting 
 elements to JavaScript objects automatically.
+
+
+### [Superfine](https://github.com/jorgebucaran/superfine) - No Official Site
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/superfine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jorgebucaran/superfine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/jorgebucaran/superfine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jorgebucaran/superfine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/jorgebucaran/superfine.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jorgebucaran/superfine.svg?style=flat-square&maxAge=5184000)]()
+
+[Superfine](https://github.com/jorgebucaran/superfine) is interesting in
+that it's authored by the same guy behind [Hyperapp](#hyperapp), Jorge
+Bucaran. Described as a, "1 KB VDOM builder and patch function",
+Superfine is a tool that can be used to build your own framework.
+Superfine supports keyed updates & lifecycle events --- all with no
+dependencies. Mix it with your favorite state management library or
+create your own custom view framework.
 
 
 ### [Surplus](https://github.com/adamhaile/surplus) - No Official Site
@@ -753,24 +772,6 @@ well-known techniques/concepts and packs them into single compact form
 suitable for the modern web application development.
 Technically the closest relative to TSERS is Cycle.js, but conceptually 
 the closest one is CALM^2.
-
-
-### [Ultradom](https://github.com/jorgebucaran/ultradom) - No Official Site
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/jorgebucaran/ultradom.svg?style=flat-square&maxAge=5184000)]()
-
-[Ultradom](https://github.com/jorgebucaran/ultradom) is interesting in
-that it's authored by the same guy behind [Hyperapp](#hyperapp), Jorge
-Bucaran. Described as a, "1 KB VDOM builder and patch function",
-Ultradom is a tool that can be used to build your own framework.
-Ultradom supports keyed updates & lifecycle events --- all with no
-dependencies. Mix it with your favorite state management library or
-create your own custom view framework.
 
 
 ### [Vidom](https://github.com/dfilatov/vidom) - No Official Site

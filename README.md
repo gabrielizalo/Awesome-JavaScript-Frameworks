@@ -114,7 +114,7 @@ management system.
 [![GitHub watchers](https://img.shields.io/github/watchers/emberjs/ember.js.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub stars](https://img.shields.io/github/stars/emberjs/ember.js.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub forks](https://img.shields.io/github/forks/emberjs/ember.js.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/emberjs/ember.js.js.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/emberjs/ember.js.svg?style=flat-square&maxAge=5184000)]()
 
 Ember was authored by Yehuda Katz, a prolific creator or contributor to 
 numerous open source projects. Ember is based on the MVVM pattern and 
@@ -144,14 +144,14 @@ injection, templating, routing and pub/sub, so you don't have to piece
 together a bunch of libraries in order to build an application. 
 
 
-### [Elm](https://github.com/elm-lang/elm-lang.org) - [Official Site](http://elm-lang.org/)
+### [Elm](https://github.com/elm/elm-lang.org) - [Official Site](http://elm-lang.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/elm-lang/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/elm-lang/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/elm-lang/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/elm-lang/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub forks](https://img.shields.io/github/forks/elm-lang/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/elm-lang/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/elm/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/elm/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/elm/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/elm/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/elm/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/elm/elm-lang.org.svg?style=flat-square&maxAge=5184000)]()
 
 Elm is somewhat unique on this list. Rather than a typical framework, 
 it's actually a separate language that compiles to JavaScript. However, 
