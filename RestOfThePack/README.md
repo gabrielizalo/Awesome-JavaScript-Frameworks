@@ -1,6 +1,6 @@
 # John Hannah's Awesome JavaScript Frameworks
 
-[_Return to Categories_](README.md#categories)
+[_Return to Categories_](../README.md#categories)
 
 
 ## Rest of the Pack
@@ -802,4 +802,4 @@ project.
 
 
 
-[_Return to Categories_](README.md#categories)
+[_Return to Categories_](../README.md#categories)
