@@ -54,6 +54,21 @@ speed and simplicity of code generation...Content and behavior of any
 page can be defined simply by composing JavaScript objects.
 
 
+### [CanJS](https://github.com/canjs/canjs) - [Official Site](https://canjs.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/canjs/canjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/canjs/canjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/canjs/canjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/canjs/canjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub forks](https://img.shields.io/github/forks/canjs/canjs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/canjs/canjs.svg?style=flat-square&maxAge=5184000)]()
+
+CanJS is a client-side JavaScript framework used to build rich web 
+interfaces. It provides state-management, templates, custom elements, 
+and a whole bunch more. CanJS makes it easy to to do the common stuff, 
+while helping you build the impossible.
+
+
 ### [Choo](https://github.com/choojs/choo) - [Official Site](https://choo.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/choojs/choo.svg?style=flat-square&maxAge=5184000)]()
